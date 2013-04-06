@@ -1,0 +1,30 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\bin\Debug\C3Suggested1ConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ConsoleApplication\obj\x86\Debug\C3Suggested1ConsoleApplication.pdb

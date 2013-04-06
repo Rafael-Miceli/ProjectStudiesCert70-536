@@ -1,0 +1,30 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C2L2ConsoleApplication\bin\Debug\C2L2ConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C2L2ConsoleApplication\obj\x86\Debug\C2L2ConsoleApplication.pdb

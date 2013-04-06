@@ -1,0 +1,20 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.exe.config
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.exe.config
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.exe
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.exe.config
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\PracticesConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\bin\Debug\PracticesConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticesConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache

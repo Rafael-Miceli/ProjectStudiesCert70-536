@@ -1,0 +1,27 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\bin\Debug\C8L3ServiceStudy2.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\bin\Debug\C8L3ServiceStudy2.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3WindowsService.ProjectInstaller.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3WindowsService.MonitorWebSite.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3ServiceStudy2.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3ServiceStudy2.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3ServiceStudy2.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3ServiceStudy2.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\bin\Debug\C8L3ServiceStudy2.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\bin\Debug\C8L3ServiceStudy2.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3WindowsService.ProjectInstaller.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3WindowsService.MonitorWebSite.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\bin\Debug\C8L3ServiceStudy2.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\bin\Debug\C8L3ServiceStudy2.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3WindowsService.ProjectInstaller.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3WindowsService.MonitorWebSite.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3ServiceStudy2.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8L3WindowsService\obj\x86\Debug\C8L3ServiceStudy2.pdb

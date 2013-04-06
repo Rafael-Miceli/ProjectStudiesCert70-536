@@ -1,0 +1,27 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\bin\Debug\C8Suggested2WindowsService.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\bin\Debug\C8Suggested2WindowsService.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.ProjectInstaller.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.ServiceSuggested1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\bin\Debug\C8Suggested2WindowsService.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\bin\Debug\C8Suggested2WindowsService.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.ProjectInstaller.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.ServiceSuggested1.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\bin\Debug\C8Suggested2WindowsService.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\bin\Debug\C8Suggested2WindowsService.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.ProjectInstaller.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.ServiceSuggested1.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C8Suggested2WindowsService\obj\x86\Debug\C8Suggested2WindowsService.pdb

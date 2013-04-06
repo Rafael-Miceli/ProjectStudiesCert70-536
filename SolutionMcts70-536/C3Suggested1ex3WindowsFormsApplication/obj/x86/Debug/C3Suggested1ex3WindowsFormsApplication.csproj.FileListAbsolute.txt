@@ -1,0 +1,60 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Form1.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Form1.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1 (Sidetech Trabalho).tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1 (Sidetech Trabalho).tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1 (Sidetech Trabalho).tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1 (Sidetech Trabalho).tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\bin\Debug\C3Suggested1ex3WindowsFormsApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Form1.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1 (Sidetech Trabalho).tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1 (Sidetech Trabalho).tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C3Suggested1ex3WindowsFormsApplication\obj\x86\Debug\C3Suggested1ex3WindowsFormsApplication.pdb

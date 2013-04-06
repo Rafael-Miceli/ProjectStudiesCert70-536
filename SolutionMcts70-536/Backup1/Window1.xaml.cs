@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace GenericList
+{
+    /// <summary>
+    /// Interaction logic for Window1.xaml
+    /// </summary>
+    public partial class Window1 : Window
+    {
+        public Window1()
+        {
+            InitializeComponent();
+        }
+
+        private void addButton_Click(object sender, RoutedEventArgs e)
+        {
+            // TODO: Add an item to the shoppping cart
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            // TODO: Create a data binding from the ListBox to the List
+        }
+
+        private void sortNameButton_Click(object sender, RoutedEventArgs e)
+        {
+            // TODO: Sort the shopping cart by name
+        }
+
+        private void sortPriceButton_Click(object sender, RoutedEventArgs e)
+        {
+            // TODO: Sort the shopping cart by price
+        }
+    }
+}

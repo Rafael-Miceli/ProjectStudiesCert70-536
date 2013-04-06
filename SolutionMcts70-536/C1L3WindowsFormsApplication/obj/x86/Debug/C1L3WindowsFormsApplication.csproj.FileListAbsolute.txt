@@ -1,0 +1,68 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Form1.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Form1.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1 (Sidetech Trabalho).tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1 (Sidetech Trabalho).tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1 (Sidetech Trabalho).tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1 (Sidetech Trabalho).tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\C1L3WindowsFormsApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\bin\Debug\SolutionsUtilities.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Form1.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.Properties.Resources.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1 (Sidetech Trabalho).tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1 (Sidetech Trabalho).tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C1L3WindowsFormsApplication\obj\x86\Debug\C1L3WindowsFormsApplication.pdb

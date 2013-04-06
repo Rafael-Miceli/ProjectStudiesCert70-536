@@ -1,0 +1,10 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C13L2\bin\Debug\MathLibrary.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C13L2\bin\Debug\MathLibrary.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C13L2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C13L2\obj\Debug\MathLibrary.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C13L2\obj\Debug\MathLibrary.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C13L2\bin\Debug\MathLibrary.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C13L2\bin\Debug\MathLibrary.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C13L2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C13L2\obj\Debug\MathLibrary.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C13L2\obj\Debug\MathLibrary.pdb

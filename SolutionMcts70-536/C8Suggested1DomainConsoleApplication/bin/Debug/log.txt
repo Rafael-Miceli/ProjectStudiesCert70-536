@@ -1,0 +1,7 @@
+29/04/2012 20:51:42 for http://www.microsoft.com: OK
+29/04/2012 21:01:13 for http://www.microsoft.com: OK
+29/04/2012 21:02:07 for http://www.microsoft.com: OK
+30/04/2012 14:57:17 for http://www.microsoft.com: OK
+30/04/2012 15:03:02 for http://www.microsoft.com: OK
+30/04/2012 15:05:16 for http://www.microsoft.com: OK
+30/04/2012 15:14:28 for http://www.microsoft.com: OK

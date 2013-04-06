@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SolutionMcts70-536 (RafaePri Note)">
+</Property><Property Name="Solution File" Value="C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\SolutionMcts70-536 (RafaePri Note).sln">
+</Property><Property Name="Date" Value="domingo, 6 de maio de 2012">
+</Property><Property Name="Time" Value="15:57:16">
+</Property><Property Name="Log Number" Value="6">
+</Property></Properties><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\C9L2RememberSettings.csproj" Description="Project file successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\C9L2RememberSettings.csproj">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\App.xaml.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Window1.xaml.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\App.xaml" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\App.xaml">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\Window1.xaml" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Visual Studio 2010\SolutionMcts70-536\Backup5\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\C9L2RememberSettings.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="C9L2RememberSettings" Source="C9L2RememberSettings\C9L2RememberSettings.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C9L2RememberSettings" Source="C9L2RememberSettings\C9L2RememberSettings.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

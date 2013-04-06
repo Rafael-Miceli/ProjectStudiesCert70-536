@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MathLibrary">
+</Property><Property Name="Solution File" Value="C:\Users\Rafa&amp;Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\MathLibrary.sln">
+</Property><Property Name="Date" Value="sábado, 18 de fevereiro de 2012">
+</Property><Property Name="Time" Value="19:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MathLibrary.sln" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\Backup\MathLibrary.sln">
+</Event><Event ErrorLevel="0" Project="MathLibrary" Source="MathLibrary.csproj" Description="Project file successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\Backup\MathLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="MathLibrary" Source="Math.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\Backup\Math.cs">
+</Event><Event ErrorLevel="0" Project="MathLibrary" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Rafa&amp;Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MathLibrary" Source="MathLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MathLibrary" Source="MathLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MathLibrary.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MathLibrary.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MathLibrary" Source="MathLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

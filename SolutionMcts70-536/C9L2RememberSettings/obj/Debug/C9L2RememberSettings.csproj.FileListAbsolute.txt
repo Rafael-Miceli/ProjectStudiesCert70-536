@@ -1,0 +1,29 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\bin\Debug\RememberSettings.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\bin\Debug\RememberSettings.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\Window1.baml
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\Window1.g.cs
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\App.g.cs
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings_MarkupCompile.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.g.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\ResGen.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\ResGen.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\bin\Debug\RememberSettings.exe.config
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\Window1.baml
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\Window1.g.cs
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings_MarkupCompile.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.g.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\ResGen.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\ResGen.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\RememberSettings.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L2RememberSettings\obj\Debug\GenerateResource-ResGen.write.1.tlog

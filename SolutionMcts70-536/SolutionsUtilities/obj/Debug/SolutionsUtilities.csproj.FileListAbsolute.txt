@@ -1,0 +1,20 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\SolutionsUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\SolutionsUtilities\bin\Debug\SolutionsUtilities.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\SolutionsUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\SolutionsUtilities\obj\Debug\SolutionsUtilities.pdb

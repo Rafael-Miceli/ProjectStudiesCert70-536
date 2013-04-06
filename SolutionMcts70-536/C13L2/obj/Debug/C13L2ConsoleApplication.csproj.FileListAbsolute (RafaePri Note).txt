@@ -1,0 +1,5 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C13L2\bin\Debug\MathLibrary.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C13L2\bin\Debug\MathLibrary.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C13L2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C13L2\obj\Debug\MathLibrary.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C13L2\obj\Debug\MathLibrary.pdb

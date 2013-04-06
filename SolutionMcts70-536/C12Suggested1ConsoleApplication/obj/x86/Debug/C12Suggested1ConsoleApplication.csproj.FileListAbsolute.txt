@@ -1,0 +1,15 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12Suggested1ConsoleApplication\bin\Debug\C12Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12Suggested1ConsoleApplication\bin\Debug\C12Suggested1ConsoleApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\C12Suggested1ConsoleApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\C12Suggested1ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12Suggested1ConsoleApplication\bin\Debug\C12Suggested1ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12Suggested1ConsoleApplication\bin\Debug\C12Suggested1ConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\C12Suggested1ConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\C12Suggested1ConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12Suggested1ConsoleApplication\bin\Debug\C12Suggested1ConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12Suggested1ConsoleApplication\bin\Debug\C12Suggested1ConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\C12Suggested1ConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12Suggested1ConsoleApplication\obj\x86\Debug\C12Suggested1ConsoleApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeWebApplication\bin\PracticeWebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeWebApplication\bin\PracticeWebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeWebApplication\obj\Debug\PracticeWebApplication.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeWebApplication\obj\Debug\PracticeWebApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeWebApplication\obj\Debug\PracticeWebApplication.dll.licenses

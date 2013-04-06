@@ -1,0 +1,28 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\bin\Debug\RBS.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\bin\Debug\RBS.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\DeclarativeRBS.Form1.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\RBS.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\RBS.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\bin\Debug\RBS.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\bin\Debug\RBS.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\DeclarativeRBS.Form1.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\RBS.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\RBS.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\bin\Debug\RBS.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\bin\Debug\RBS.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\DeclarativeRBS.Form1.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\RBS.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C12L1WindowsFormsApplication\obj\Debug\RBS.pdb

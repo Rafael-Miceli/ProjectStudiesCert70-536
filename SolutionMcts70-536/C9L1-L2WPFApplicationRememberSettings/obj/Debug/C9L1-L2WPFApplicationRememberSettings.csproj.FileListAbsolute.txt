@@ -1,0 +1,41 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\bin\Debug\RememberSettings.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\bin\Debug\RememberSettings.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\Window1.baml
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\Window1.g.cs
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings_MarkupCompile.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.g.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\Window1.baml
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\Window1.g.cs
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\App.g.cs
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings_MarkupCompile.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.g.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResGen.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResGen.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResGen.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResGen.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\Window1.baml
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\Window1.g.cs
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\App.g.cs
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings_MarkupCompile.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.g.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.Properties.Resources.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResGen.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\ResGen.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C9L1-L2WPFApplicationRememberSettings\obj\Debug\RememberSettings.pdb

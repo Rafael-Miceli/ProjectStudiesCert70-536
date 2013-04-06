@@ -1,0 +1,5 @@
+C:\Users\Rafa&Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\Rafa&Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\Rafa&Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\Rafa&Pri\Documents\Estudos\70-536 Second Edition CD\Codigos\Code\Chapter13\Lesson2\Exercise1\Partial\CS\MathLibrary\obj\Debug\MathLibrary.pdb

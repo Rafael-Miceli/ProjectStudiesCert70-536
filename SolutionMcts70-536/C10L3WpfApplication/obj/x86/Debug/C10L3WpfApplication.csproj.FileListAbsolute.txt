@@ -1,0 +1,39 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\bin\Debug\C10L3WpfApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\bin\Debug\C10L3WpfApplication.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\App.g.cs
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication_MarkupCompile.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.g.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.Properties.Resources.resources
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.exe
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\bin\Debug\C10L3WpfApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\bin\Debug\C10L3WpfApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\App.g.cs
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication_MarkupCompile.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.g.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.Properties.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\bin\Debug\C10L3WpfApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\bin\Debug\C10L3WpfApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\MainWindow.baml
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\App.g.cs
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication_MarkupCompile.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.g.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.Properties.Resources.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L3WpfApplication\obj\x86\Debug\C10L3WpfApplication.pdb

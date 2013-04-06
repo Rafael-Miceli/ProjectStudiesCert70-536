@@ -1,0 +1,15 @@
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L2ClassLibrary\bin\Debug\C10L2ClassLibrary.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L2ClassLibrary\bin\Debug\C10L2ClassLibrary.pdb
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\C10L2ClassLibrary.dll
+C:\Users\Rafa&Pri\Documents\Visual Studio 2010\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\C10L2ClassLibrary.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L2ClassLibrary\bin\Debug\C10L2ClassLibrary.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L2ClassLibrary\bin\Debug\C10L2ClassLibrary.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\C10L2ClassLibrary.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\C10L2ClassLibrary.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L2ClassLibrary\bin\Debug\C10L2ClassLibrary.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L2ClassLibrary\bin\Debug\C10L2ClassLibrary.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\C10L2ClassLibrary.dll
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\C10L2ClassLibrary\obj\Debug\C10L2ClassLibrary.pdb

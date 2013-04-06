@@ -1,0 +1,30 @@
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.Resources.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.exe
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projetos de Estudos\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.pdb
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.exe
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.xml
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.pdb
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.exe
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.pdb
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.xml
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.Resources.resources
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.xml
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.exe
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.pdb
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\bin\Debug\PracticeVBConsoleApplication.xml
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.Resources.resources
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rafael.paiva\SkyDrive\Projects\SolutionMcts70-536\PracticeVBConsoleApplication\obj\x86\Debug\PracticeVBConsoleApplication.exe

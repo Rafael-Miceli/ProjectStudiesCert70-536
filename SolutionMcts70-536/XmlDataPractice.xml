@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Practice>
+  <Funcionalidade in_IDFuncionalidade="110" vc_NomeFuncionalidade="Acesso ao Menu">
+    <Operacao in_IDOperacao="770" vc_NomeOperacao="Desktop" si_Ordem="10" />
+    <Operacao in_IDOperacao="771" vc_NomeOperacao="Cadastros" si_Ordem="20" />
+    <Operacao in_IDOperacao="772" vc_NomeOperacao="Funcionários" si_Ordem="30" />
+    <Operacao in_IDOperacao="773" vc_NomeOperacao="Central da Empresa" si_Ordem="40" />
+    <Operacao in_IDOperacao="774" vc_NomeOperacao="Saúde Ocupacional" si_Ordem="50" />
+    <Operacao in_IDOperacao="775" vc_NomeOperacao="Segurança" si_Ordem="60" />
+    <Operacao in_IDOperacao="805" vc_NomeOperacao="Operacional" si_Ordem="70" />
+    <Operacao in_IDOperacao="776" vc_NomeOperacao="Qualidade de Vida" si_Ordem="70" />
+    <Operacao in_IDOperacao="777" vc_NomeOperacao="Relatórios" si_Ordem="80" />
+    <Operacao in_IDOperacao="778" vc_NomeOperacao="Estatísticas" si_Ordem="90" />
+    <Operacao in_IDOperacao="835" vc_NomeOperacao="Integração com CMNG" si_Ordem="100" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="112" vc_NomeFuncionalidade="Agendamento">
+    <Operacao in_IDOperacao="785" vc_NomeOperacao="Excluir Agendamento" si_Ordem="9999" />
+    <Operacao in_IDOperacao="784" vc_NomeOperacao="Marcar Agendamento" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="97" vc_NomeFuncionalidade="Associação de Características Ambientais">
+    <Operacao in_IDOperacao="721" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="722" vc_NomeOperacao="Gravar" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="34" vc_NomeFuncionalidade="Cadastro de Ações">
+    <Operacao in_IDOperacao="446" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="447" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="448" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="449" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="19" vc_NomeFuncionalidade="Cadastro de Agentes de Risco">
+    <Operacao in_IDOperacao="394" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="395" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="396" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="397" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="84" vc_NomeFuncionalidade="Cadastro de Áreas de Atendimento">
+    <Operacao in_IDOperacao="663" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="665" vc_NomeOperacao="Alterar" si_Ordem="1" />
+    <Operacao in_IDOperacao="666" vc_NomeOperacao="Excluir" si_Ordem="1" />
+    <Operacao in_IDOperacao="664" vc_NomeOperacao="Incluir" si_Ordem="1" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="62" vc_NomeFuncionalidade="Cadastro de Audiômetros">
+    <Operacao in_IDOperacao="544" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="545" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="546" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="547" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="65" vc_NomeFuncionalidade="Cadastro de Avaliações">
+    <Operacao in_IDOperacao="535" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="559" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="560" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="561" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="50" vc_NomeFuncionalidade="Cadastro de Campanhas">
+    <Operacao in_IDOperacao="490" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="491" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="492" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="493" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="23" vc_NomeFuncionalidade="Cadastro de Características Ambientais">
+    <Operacao in_IDOperacao="404" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="405" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="406" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="407" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="12" vc_NomeFuncionalidade="Cadastro de Centros de Custos">
+    <Operacao in_IDOperacao="339" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="340" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="341" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="342" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="117" vc_NomeFuncionalidade="Cadastro de CIDs do NTEP">
+    <Operacao in_IDOperacao="827" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="828" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="853" vc_NomeOperacao="Alteração de CID do NTEP" si_Ordem="3" />
+    <Operacao in_IDOperacao="829" vc_NomeOperacao="Excluir" si_Ordem="3" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="79" vc_NomeFuncionalidade="Cadastro de Classes de Grupos de Exames">
+    <Operacao in_IDOperacao="623" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="624" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="625" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="626" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="61" vc_NomeFuncionalidade="Cadastro de Classificações">
+    <Operacao in_IDOperacao="510" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="541" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="542" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="543" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="103" vc_NomeFuncionalidade="Cadastro de Conclusão de Agente">
+    <Operacao in_IDOperacao="738" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="739" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="740" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="741" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="13" vc_NomeFuncionalidade="Cadastro de Credenciados">
+    <Operacao in_IDOperacao="343" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="344" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="345" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="346" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="123" vc_NomeFuncionalidade="Cadastro de Deficiencia">
+    <Operacao in_IDOperacao="860" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="863" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="861" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="862" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="67" vc_NomeFuncionalidade="Cadastro de Departamentos">
+    <Operacao in_IDOperacao="579" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="580" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="581" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="582" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="63" vc_NomeFuncionalidade="Cadastro de Documentos">
+    <Operacao in_IDOperacao="548" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="549" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="550" vc_NomeOperacao="Excluir" si_Ordem="4" />
+    <Operacao in_IDOperacao="532" vc_NomeOperacao="Acessar" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="120" vc_NomeFuncionalidade="Cadastro de Domicílio Tributário">
+    <Operacao in_IDOperacao="844" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="845" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="846" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="847" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="51" vc_NomeFuncionalidade="Cadastro de Doses">
+    <Operacao in_IDOperacao="494" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="495" vc_NomeOperacao="Gravar" si_Ordem="2" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="80" vc_NomeFuncionalidade="Cadastro de Empresas">
+    <Operacao in_IDOperacao="369" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="489" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="371" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="372" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="33" vc_NomeFuncionalidade="Cadastro de EPI">
+    <Operacao in_IDOperacao="442" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="443" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="444" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="445" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="43" vc_NomeFuncionalidade="Cadastro de Especialidades">
+    <Operacao in_IDOperacao="472" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="473" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="474" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="475" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="106" vc_NomeFuncionalidade="Cadastro de Estabelecimento de Prioridades">
+    <Operacao in_IDOperacao="751" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="752" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="753" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="754" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="17" vc_NomeFuncionalidade="Cadastro de Exames">
+    <Operacao in_IDOperacao="386" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="387" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="388" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="389" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="28" vc_NomeFuncionalidade="Cadastro de Fabricante de EPI">
+    <Operacao in_IDOperacao="422" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="423" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="424" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="425" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="64" vc_NomeFuncionalidade="Cadastro de Faixas de Pontuação">
+    <Operacao in_IDOperacao="533" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="553" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="554" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="555" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="25" vc_NomeFuncionalidade="Cadastro de Fontes Geradoras">
+    <Operacao in_IDOperacao="410" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="411" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="412" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="413" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="105" vc_NomeFuncionalidade="Cadastro de Fornecedores de EPI">
+    <Operacao in_IDOperacao="747" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="748" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="749" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="750" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="10" vc_NomeFuncionalidade="Cadastro de Funções">
+    <Operacao in_IDOperacao="331" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="332" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="333" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="334" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="57" vc_NomeFuncionalidade="Cadastro de Grupo de Exames">
+    <Operacao in_IDOperacao="516" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="517" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="518" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="519" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="58" vc_NomeFuncionalidade="Cadastro de Grupos">
+    <Operacao in_IDOperacao="520" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="522" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="523" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="521" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="99" vc_NomeFuncionalidade="Cadastro de Grupos Homogêneos de Exposição">
+    <Operacao in_IDOperacao="726" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="728" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="729" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="727" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="111" vc_NomeFuncionalidade="Cadastro de Impostos">
+    <Operacao in_IDOperacao="779" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="780" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="781" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="782" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="109" vc_NomeFuncionalidade="Cadastro de Instrumentos de Medição">
+    <Operacao in_IDOperacao="766" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="768" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="769" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="767" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="116" vc_NomeFuncionalidade="Cadastro de Kit de Medicamentos">
+    <Operacao in_IDOperacao="822" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="823" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="824" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="825" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="52" vc_NomeFuncionalidade="Cadastro de Laboratórios">
+    <Operacao in_IDOperacao="498" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="500" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="501" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="499" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="53" vc_NomeFuncionalidade="Cadastro de Medicamentos">
+    <Operacao in_IDOperacao="502" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="504" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="505" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="503" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="27" vc_NomeFuncionalidade="Cadastro de Medidas de Controle">
+    <Operacao in_IDOperacao="418" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="419" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="420" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="421" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="26" vc_NomeFuncionalidade="Cadastro de Meios de Propagação">
+    <Operacao in_IDOperacao="414" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="415" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="416" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="417" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="85" vc_NomeFuncionalidade="Cadastro de Motivos de Atendimento">
+    <Operacao in_IDOperacao="667" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="669" vc_NomeOperacao="Alterar" si_Ordem="1" />
+    <Operacao in_IDOperacao="670" vc_NomeOperacao="Excluir" si_Ordem="1" />
+    <Operacao in_IDOperacao="668" vc_NomeOperacao="Incluir" si_Ordem="1" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="86" vc_NomeFuncionalidade="Cadastro de Motivos de Empréstimo">
+    <Operacao in_IDOperacao="671" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="673" vc_NomeOperacao="Alterar" si_Ordem="1" />
+    <Operacao in_IDOperacao="674" vc_NomeOperacao="Excluir" si_Ordem="1" />
+    <Operacao in_IDOperacao="672" vc_NomeOperacao="Incluir" si_Ordem="1" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="66" vc_NomeFuncionalidade="Cadastro de Orientações">
+    <Operacao in_IDOperacao="534" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="556" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="557" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="558" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="18" vc_NomeFuncionalidade="Cadastro de Parâmetros de Exames">
+    <Operacao in_IDOperacao="390" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="391" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="392" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="393" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="115" vc_NomeFuncionalidade="Cadastro de Pergunta">
+    <Operacao in_IDOperacao="809" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="810" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="811" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="812" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="114" vc_NomeFuncionalidade="Cadastro de Perguntas da Anamnese da Audiometria">
+    <Operacao in_IDOperacao="807" vc_NomeOperacao="Acessar" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="32" vc_NomeFuncionalidade="Cadastro de Postos de Trabalho">
+    <Operacao in_IDOperacao="438" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="439" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="440" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="441" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="41" vc_NomeFuncionalidade="Cadastro de Procedimentos">
+    <Operacao in_IDOperacao="464" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="465" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="466" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="467" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="11" vc_NomeFuncionalidade="Cadastro de Profissionais">
+    <Operacao in_IDOperacao="335" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="336" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="337" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="338" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="81" vc_NomeFuncionalidade="Cadastro de Programas de Promoção de Saúde">
+    <Operacao in_IDOperacao="645" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="646" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="647" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="648" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="42" vc_NomeFuncionalidade="Cadastro de Queixas">
+    <Operacao in_IDOperacao="468" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="469" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="470" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="471" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="59" vc_NomeFuncionalidade="Cadastro de Regiões">
+    <Operacao in_IDOperacao="524" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="526" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="527" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="525" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="31" vc_NomeFuncionalidade="Cadastro de Riscos à Saúde">
+    <Operacao in_IDOperacao="434" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="435" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="436" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="437" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="87" vc_NomeFuncionalidade="Cadastro de Serviços">
+    <Operacao in_IDOperacao="675" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="836" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="837" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="838" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="9" vc_NomeFuncionalidade="Cadastro de Setores">
+    <Operacao in_IDOperacao="327" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="328" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="329" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="330" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="29" vc_NomeFuncionalidade="Cadastro de Técnicas de Medição">
+    <Operacao in_IDOperacao="426" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="427" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="428" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="429" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="108" vc_NomeFuncionalidade="Cadastro de Tempo de Exposição ao Risco">
+    <Operacao in_IDOperacao="762" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="764" vc_NomeOperacao="Alterar" si_Ordem="10" />
+    <Operacao in_IDOperacao="765" vc_NomeOperacao="Excluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="763" vc_NomeOperacao="Incluir" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="44" vc_NomeFuncionalidade="Cadastro de Tipos de Afastamento">
+    <Operacao in_IDOperacao="476" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="477" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="478" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="479" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="83" vc_NomeFuncionalidade="Cadastro de Tipos de Interação">
+    <Operacao in_IDOperacao="653" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="654" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="655" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="656" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="30" vc_NomeFuncionalidade="Cadastro de Trajetórias">
+    <Operacao in_IDOperacao="430" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="431" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="432" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="433" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="77" vc_NomeFuncionalidade="Cadastro de Treinamentos">
+    <Operacao in_IDOperacao="612" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="613" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="614" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="615" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="14" vc_NomeFuncionalidade="Cadastro de Turnos">
+    <Operacao in_IDOperacao="347" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="348" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="349" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="350" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="104" vc_NomeFuncionalidade="Cadastro de Unidades de Atendimento">
+    <Operacao in_IDOperacao="742" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="743" vc_NomeOperacao="Incluir" si_Ordem="20" />
+    <Operacao in_IDOperacao="744" vc_NomeOperacao="Alterar" si_Ordem="30" />
+    <Operacao in_IDOperacao="745" vc_NomeOperacao="Excluir" si_Ordem="40" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="49" vc_NomeFuncionalidade="Cadastro de Vacinas">
+    <Operacao in_IDOperacao="485" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="486" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="487" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="488" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="40" vc_NomeFuncionalidade="Cadastro do CID">
+    <Operacao in_IDOperacao="460" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="461" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="462" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="463" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="38" vc_NomeFuncionalidade="Cadastro do Cronograma de Ações">
+    <Operacao in_IDOperacao="457" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="458" vc_NomeOperacao="Gravar" si_Ordem="2" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="37" vc_NomeFuncionalidade="Cadastro do Documento Base do PPRA">
+    <Operacao in_IDOperacao="456" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="573" vc_NomeOperacao="Gravar" si_Ordem="2" />
+    <Operacao in_IDOperacao="801" vc_NomeOperacao="Excluir Modelo" si_Ordem="3" />
+    <Operacao in_IDOperacao="797" vc_NomeOperacao="Gravar Modelo" si_Ordem="3" />
+    <Operacao in_IDOperacao="796" vc_NomeOperacao="Utilizar Modelo" si_Ordem="3" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="24" vc_NomeFuncionalidade="Cadastro do Texto Padrão do PCMSO">
+    <Operacao in_IDOperacao="408" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="409" vc_NomeOperacao="Gravar" si_Ordem="2" />
+    <Operacao in_IDOperacao="800" vc_NomeOperacao="Excluir Modelo" si_Ordem="3" />
+    <Operacao in_IDOperacao="799" vc_NomeOperacao="Gravar Modelo" si_Ordem="3" />
+    <Operacao in_IDOperacao="798" vc_NomeOperacao="Utilizar Modelo" si_Ordem="3" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="118" vc_NomeFuncionalidade="Cálculo do FAP">
+    <Operacao in_IDOperacao="830" vc_NomeOperacao="Acessar" si_Ordem="1" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="16" vc_NomeFuncionalidade="Central da Empresa">
+    <Operacao in_IDOperacao="711" vc_NomeOperacao="ASO para Preenchimento" si_Ordem="10" />
+    <Operacao in_IDOperacao="572" vc_NomeOperacao="Entrega de EPI" si_Ordem="10" />
+    <Operacao in_IDOperacao="638" vc_NomeOperacao="Estrutura da Empresa" si_Ordem="10" />
+    <Operacao in_IDOperacao="716" vc_NomeOperacao="Ficha Médica para Preenchimento" si_Ordem="10" />
+    <Operacao in_IDOperacao="831" vc_NomeOperacao="Formulario de Enquadramento" si_Ordem="10" />
+    <Operacao in_IDOperacao="678" vc_NomeOperacao="Relação de PPPs Emitidos" si_Ordem="10" />
+    <Operacao in_IDOperacao="713" vc_NomeOperacao="Relatório de Absenteísmo por Tipo de Afastamento" si_Ordem="10" />
+    <Operacao in_IDOperacao="720" vc_NomeOperacao="Relatório de Audiometrias Realizadas" si_Ordem="10" />
+    <Operacao in_IDOperacao="621" vc_NomeOperacao="Relatório de Controle de Treinamento" si_Ordem="10" />
+    <Operacao in_IDOperacao="746" vc_NomeOperacao="Relatório de Detalhamento de Faturas" si_Ordem="10" />
+    <Operacao in_IDOperacao="715" vc_NomeOperacao="Relatório de Doses Aplicadas por Departamento" si_Ordem="10" />
+    <Operacao in_IDOperacao="714" vc_NomeOperacao="Relatório de Estabelecimento de Prioridades" si_Ordem="10" />
+    <Operacao in_IDOperacao="719" vc_NomeOperacao="Relatório de Estrutura da Empresa" si_Ordem="10" />
+    <Operacao in_IDOperacao="633" vc_NomeOperacao="Relatório de Faturamento" si_Ordem="10" />
+    <Operacao in_IDOperacao="642" vc_NomeOperacao="Relatório de Medições" si_Ordem="10" />
+    <Operacao in_IDOperacao="718" vc_NomeOperacao="Relatório de Medidas de Controle" si_Ordem="10" />
+    <Operacao in_IDOperacao="641" vc_NomeOperacao="Relatório de Movimentação de Funcionários" si_Ordem="10" />
+    <Operacao in_IDOperacao="677" vc_NomeOperacao="Relatório de Permissão de Acesso" si_Ordem="10" />
+    <Operacao in_IDOperacao="717" vc_NomeOperacao="Relatório de Reconhecimento de Riscos" si_Ordem="10" />
+    <Operacao in_IDOperacao="755" vc_NomeOperacao="Relatório de Riscos" si_Ordem="10" />
+    <Operacao in_IDOperacao="640" vc_NomeOperacao="Relatório de Treinamentos por Associações" si_Ordem="10" />
+    <Operacao in_IDOperacao="628" vc_NomeOperacao="Relatório de Treinamentos por Funcionários" si_Ordem="10" />
+    <Operacao in_IDOperacao="627" vc_NomeOperacao="Relatório de Treinamentos Vencidos" si_Ordem="10" />
+    <Operacao in_IDOperacao="839" vc_NomeOperacao="Relatório de Detalhamento de Faturas para Exportação" si_Ordem="11" />
+    <Operacao in_IDOperacao="380" vc_NomeOperacao="Controle de Vencimentos" si_Ordem="20" />
+    <Operacao in_IDOperacao="806" vc_NomeOperacao="Relatório de Fidelidade" si_Ordem="20" />
+    <Operacao in_IDOperacao="385" vc_NomeOperacao="Responsáveis Ambientais e Biológicos" si_Ordem="30" />
+    <Operacao in_IDOperacao="629" vc_NomeOperacao="Cadastro de Contratos" si_Ordem="40" />
+    <Operacao in_IDOperacao="630" vc_NomeOperacao="Fechamento" si_Ordem="50" />
+    <Operacao in_IDOperacao="632" vc_NomeOperacao="Contas a Receber" si_Ordem="70" />
+    <Operacao in_IDOperacao="373" vc_NomeOperacao="Agendamento de Periódicos" si_Ordem="1000" />
+    <Operacao in_IDOperacao="374" vc_NomeOperacao="Carta de Convocação" si_Ordem="1010" />
+    <Operacao in_IDOperacao="375" vc_NomeOperacao="Programação de Exames" si_Ordem="1020" />
+    <Operacao in_IDOperacao="376" vc_NomeOperacao="Relatório Anual" si_Ordem="1030" />
+    <Operacao in_IDOperacao="377" vc_NomeOperacao="Relação de Funcionários" si_Ordem="1040" />
+    <Operacao in_IDOperacao="816" vc_NomeOperacao="Relação de Funcionários para Exportação" si_Ordem="1040" />
+    <Operacao in_IDOperacao="637" vc_NomeOperacao="Relação de Empresas" si_Ordem="1050" />
+    <Operacao in_IDOperacao="819" vc_NomeOperacao="Relação de Empresas para Exportação" si_Ordem="1051" />
+    <Operacao in_IDOperacao="378" vc_NomeOperacao="Relação de Exames Realizados" si_Ordem="1060" />
+    <Operacao in_IDOperacao="379" vc_NomeOperacao="Periódicos Atrasados" si_Ordem="1070" />
+    <Operacao in_IDOperacao="575" vc_NomeOperacao="Relação de Exames por Credenciado" si_Ordem="1070" />
+    <Operacao in_IDOperacao="856" vc_NomeOperacao="Periódicos Atrasados Exportação" si_Ordem="1080" />
+    <Operacao in_IDOperacao="855" vc_NomeOperacao="Relação de Exames Realizados para Exportação" si_Ordem="1080" />
+    <Operacao in_IDOperacao="382" vc_NomeOperacao="Ficha Médica" si_Ordem="1090" />
+    <Operacao in_IDOperacao="383" vc_NomeOperacao="Relação de Exames Complementares" si_Ordem="1100" />
+    <Operacao in_IDOperacao="843" vc_NomeOperacao="Relação de Exames Complementares para Exportação" si_Ordem="1105" />
+    <Operacao in_IDOperacao="384" vc_NomeOperacao="Aguardando Exames" si_Ordem="1110" />
+    <Operacao in_IDOperacao="622" vc_NomeOperacao="Requisição de Exames por Lote" si_Ordem="1120" />
+    <Operacao in_IDOperacao="634" vc_NomeOperacao="Relatório de Vencimentos" si_Ordem="1130" />
+    <Operacao in_IDOperacao="381" vc_NomeOperacao="Relatório do PCMSO" si_Ordem="2000" />
+    <Operacao in_IDOperacao="564" vc_NomeOperacao="Relatório de Atendimentos Médicos" si_Ordem="2010" />
+    <Operacao in_IDOperacao="565" vc_NomeOperacao="Relatório de Atendimentos de Enfermagem" si_Ordem="2020" />
+    <Operacao in_IDOperacao="566" vc_NomeOperacao="Relatório de Afastamentos" si_Ordem="2030" />
+    <Operacao in_IDOperacao="848" vc_NomeOperacao="Afastamentos para Exportação" si_Ordem="2031" />
+    <Operacao in_IDOperacao="661" vc_NomeOperacao="Relatório de Afastamento por Grupo de CID" si_Ordem="2033" />
+    <Operacao in_IDOperacao="639" vc_NomeOperacao="Relatório de Absenteísmo" si_Ordem="2035" />
+    <Operacao in_IDOperacao="802" vc_NomeOperacao="Relação de Programação de Exames" si_Ordem="2037" />
+    <Operacao in_IDOperacao="568" vc_NomeOperacao="Relatório de Patologia" si_Ordem="2040" />
+    <Operacao in_IDOperacao="570" vc_NomeOperacao="Relatório de Acidentes de Trabalho" si_Ordem="2050" />
+    <Operacao in_IDOperacao="571" vc_NomeOperacao="Relatório Gerencial do Assistencial" si_Ordem="2060" />
+    <Operacao in_IDOperacao="576" vc_NomeOperacao="Relatório Gerencial de Atendimentos" si_Ordem="2070" />
+    <Operacao in_IDOperacao="842" vc_NomeOperacao="Relatório Gerencial de Atendimentos para Exportação" si_Ordem="2075" />
+    <Operacao in_IDOperacao="577" vc_NomeOperacao="Relatório de Funcionários Abonados" si_Ordem="2080" />
+    <Operacao in_IDOperacao="578" vc_NomeOperacao="Relatório de Procedimentos Realizados" si_Ordem="2090" />
+    <Operacao in_IDOperacao="636" vc_NomeOperacao="Relatório de Queixas" si_Ordem="2100" />
+    <Operacao in_IDOperacao="593" vc_NomeOperacao="Relatório de Estoque Mínimo" si_Ordem="2110" />
+    <Operacao in_IDOperacao="594" vc_NomeOperacao="Relatório de Movimentação de Estoque" si_Ordem="2120" />
+    <Operacao in_IDOperacao="607" vc_NomeOperacao="Relatório de Entrega de Medicamentos" si_Ordem="2130" />
+    <Operacao in_IDOperacao="616" vc_NomeOperacao="Relatório de Lotes de Medicamentos" si_Ordem="2140" />
+    <Operacao in_IDOperacao="589" vc_NomeOperacao="Relatório de Controle de Vacinação" si_Ordem="2150" />
+    <Operacao in_IDOperacao="818" vc_NomeOperacao="Relatório de Controle de Vacinação para Exportação" si_Ordem="2155" />
+    <Operacao in_IDOperacao="590" vc_NomeOperacao="Relatório de Doses Aplicadas" si_Ordem="2160" />
+    <Operacao in_IDOperacao="591" vc_NomeOperacao="Relatório de Calendário de Vacinação" si_Ordem="2170" />
+    <Operacao in_IDOperacao="606" vc_NomeOperacao="Relatório de EPI" si_Ordem="3010" />
+    <Operacao in_IDOperacao="783" vc_NomeOperacao="Exames Complementares Atrasados" si_Ordem="9999" />
+    <Operacao in_IDOperacao="840" vc_NomeOperacao="Impressão da Agenda" si_Ordem="9999" />
+    <Operacao in_IDOperacao="826" vc_NomeOperacao="Planilha de Vacinação" si_Ordem="9999" />
+    <Operacao in_IDOperacao="795" vc_NomeOperacao="Relação de Contratos" si_Ordem="9999" />
+    <Operacao in_IDOperacao="820" vc_NomeOperacao="Relação de Dados Vitais" si_Ordem="9999" />
+    <Operacao in_IDOperacao="858" vc_NomeOperacao="Relação de Documentos Emitidos" si_Ordem="9999" />
+    <Operacao in_IDOperacao="859" vc_NomeOperacao="Relatório de Absenteísmo por Tipo de Afastamento para Exportação" si_Ordem="9999" />
+    <Operacao in_IDOperacao="794" vc_NomeOperacao="Relatório de Auditoria" si_Ordem="9999" />
+    <Operacao in_IDOperacao="854" vc_NomeOperacao="Relatório de Funcionários Abonados para Exportação" si_Ordem="9999" />
+    <Operacao in_IDOperacao="857" vc_NomeOperacao="Relatório Obra Reunião Quinzenal" si_Ordem="9999" />
+    <Operacao in_IDOperacao="786" vc_NomeOperacao="Relatório Quantitativo de Avaliações" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="15" vc_NomeFuncionalidade="Central do Funcionário">
+    <Operacao in_IDOperacao="643" vc_NomeOperacao="Acompanhamento" si_Ordem="10" />
+    <Operacao in_IDOperacao="365" vc_NomeOperacao="ASO" si_Ordem="10" />
+    <Operacao in_IDOperacao="660" vc_NomeOperacao="Atendimento Jurídico" si_Ordem="10" />
+    <Operacao in_IDOperacao="659" vc_NomeOperacao="Atendimento Social" si_Ordem="10" />
+    <Operacao in_IDOperacao="551" vc_NomeOperacao="Avaliação" si_Ordem="10" />
+    <Operacao in_IDOperacao="364" vc_NomeOperacao="Avaliação de Deficientes" si_Ordem="10" />
+    <Operacao in_IDOperacao="528" vc_NomeOperacao="Classificação" si_Ordem="10" />
+    <Operacao in_IDOperacao="814" vc_NomeOperacao="Dados Vitais e Medidas" si_Ordem="10" />
+    <Operacao in_IDOperacao="496" vc_NomeOperacao="Dependentes" si_Ordem="10" />
+    <Operacao in_IDOperacao="679" vc_NomeOperacao="Empréstimo" si_Ordem="10" />
+    <Operacao in_IDOperacao="530" vc_NomeOperacao="Entrega de Medicamentos" si_Ordem="10" />
+    <Operacao in_IDOperacao="529" vc_NomeOperacao="Entrega EPI" si_Ordem="10" />
+    <Operacao in_IDOperacao="737" vc_NomeOperacao="Ficha de Risco Profissional" si_Ordem="10" />
+    <Operacao in_IDOperacao="366" vc_NomeOperacao="Ficha Médica Impressa" si_Ordem="10" />
+    <Operacao in_IDOperacao="367" vc_NomeOperacao="Histórico" si_Ordem="10" />
+    <Operacao in_IDOperacao="583" vc_NomeOperacao="Histórico do Assistencial" si_Ordem="10" />
+    <Operacao in_IDOperacao="515" vc_NomeOperacao="Impressão de Documentos" si_Ordem="10" />
+    <Operacao in_IDOperacao="352" vc_NomeOperacao="Incluir" si_Ordem="10" />
+    <Operacao in_IDOperacao="608" vc_NomeOperacao="Informações do Ranking" si_Ordem="10" />
+    <Operacao in_IDOperacao="511" vc_NomeOperacao="Orientações" si_Ordem="10" />
+    <Operacao in_IDOperacao="644" vc_NomeOperacao="Perfil de Saúde" si_Ordem="10" />
+    <Operacao in_IDOperacao="363" vc_NomeOperacao="PPP" si_Ordem="10" />
+    <Operacao in_IDOperacao="813" vc_NomeOperacao="RAC" si_Ordem="10" />
+    <Operacao in_IDOperacao="552" vc_NomeOperacao="Readmissão" si_Ordem="10" />
+    <Operacao in_IDOperacao="514" vc_NomeOperacao="Receita Médica" si_Ordem="10" />
+    <Operacao in_IDOperacao="562" vc_NomeOperacao="Requisição de Exames" si_Ordem="10" />
+    <Operacao in_IDOperacao="658" vc_NomeOperacao="Resumo das Interações" si_Ordem="10" />
+    <Operacao in_IDOperacao="368" vc_NomeOperacao="Transferência" si_Ordem="10" />
+    <Operacao in_IDOperacao="497" vc_NomeOperacao="Vacinação" si_Ordem="10" />
+    <Operacao in_IDOperacao="354" vc_NomeOperacao="Alterar" si_Ordem="20" />
+    <Operacao in_IDOperacao="355" vc_NomeOperacao="Excluir" si_Ordem="30" />
+    <Operacao in_IDOperacao="841" vc_NomeOperacao="Carta de Convocação" si_Ordem="9999" />
+    <Operacao in_IDOperacao="850" vc_NomeOperacao="Entrega de EPI para Preenchimento" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="91" vc_NomeFuncionalidade="Central do Funcionário - Acidente de Trabalho">
+    <Operacao in_IDOperacao="693" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="694" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="695" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="696" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="90" vc_NomeFuncionalidade="Central do Funcionário - Afastamentos">
+    <Operacao in_IDOperacao="689" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="690" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="691" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="692" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="89" vc_NomeFuncionalidade="Central do Funcionário - Atendimento de Enfermagem">
+    <Operacao in_IDOperacao="685" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="686" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="687" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="688" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="88" vc_NomeFuncionalidade="Central do Funcionário - Atendimento Médico">
+    <Operacao in_IDOperacao="681" vc_NomeOperacao="Acessar " si_Ordem="1" />
+    <Operacao in_IDOperacao="682" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="683" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="684" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="92" vc_NomeFuncionalidade="Central do Funcionário - Audiometria">
+    <Operacao in_IDOperacao="697" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="698" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="699" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="700" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="94" vc_NomeFuncionalidade="Central do Funcionário - Exames Complementares">
+    <Operacao in_IDOperacao="706" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="707" vc_NomeOperacao="Gravar" si_Ordem="2" />
+    <Operacao in_IDOperacao="708" vc_NomeOperacao="Excluir" si_Ordem="3" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="93" vc_NomeFuncionalidade="Central do Funcionário - Ficha Medica">
+    <Operacao in_IDOperacao="701" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="702" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="703" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="704" vc_NomeOperacao="Cancelar" si_Ordem="4" />
+    <Operacao in_IDOperacao="705" vc_NomeOperacao="Excluir" si_Ordem="5" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="124" vc_NomeFuncionalidade="Central do Funcionário - Formulário FRAT">
+    <Operacao in_IDOperacao="864" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="867" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="865" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="866" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="119" vc_NomeFuncionalidade="Check-Ups Realizados no CMNG">
+    <Operacao in_IDOperacao="833" vc_NomeOperacao="Consulta de Agendamentos no CMNG" si_Ordem="20" />
+    <Operacao in_IDOperacao="834" vc_NomeOperacao="Visualização de Laudos Enviados pelo CMNG" si_Ordem="30" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="48" vc_NomeFuncionalidade="Configurações">
+    <Operacao in_IDOperacao="483" vc_NomeOperacao="Personalização da Ficha Médica" si_Ordem="1" />
+    <Operacao in_IDOperacao="676" vc_NomeOperacao="Utilitários" si_Ordem="4" />
+    <Operacao in_IDOperacao="574" vc_NomeOperacao="Preferências" si_Ordem="6" />
+    <Operacao in_IDOperacao="680" vc_NomeOperacao="Agenda dos Profissionais" si_Ordem="10" />
+    <Operacao in_IDOperacao="725" vc_NomeOperacao="Documentos Anexos - Grupo Homogêneo" si_Ordem="10" />
+    <Operacao in_IDOperacao="756" vc_NomeOperacao="Importação de Dados" si_Ordem="10" />
+    <Operacao in_IDOperacao="821" vc_NomeOperacao="Personalização do ASO" si_Ordem="11" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="73" vc_NomeFuncionalidade="Controle de Acesso">
+    <Operacao in_IDOperacao="595" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="596" vc_NomeOperacao="Cadastro de Perfis de Usuários" si_Ordem="20" />
+    <Operacao in_IDOperacao="597" vc_NomeOperacao="Cadastro de Usuários" si_Ordem="30" />
+    <Operacao in_IDOperacao="598" vc_NomeOperacao="Configurações de Contas de Usuários" si_Ordem="40" />
+    <Operacao in_IDOperacao="599" vc_NomeOperacao="Reiniciar Senha de Usuários" si_Ordem="50" />
+    <Operacao in_IDOperacao="600" vc_NomeOperacao="Bloquear/Desbloquear Usuários" si_Ordem="60" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="113" vc_NomeFuncionalidade="Controle de Frequência">
+    <Operacao in_IDOperacao="803" vc_NomeOperacao="Acessar" si_Ordem="9999" />
+    <Operacao in_IDOperacao="804" vc_NomeOperacao="Gravar" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="78" vc_NomeFuncionalidade="Controle de Treinamentos">
+    <Operacao in_IDOperacao="617" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="618" vc_NomeOperacao="Incluir" si_Ordem="2" />
+    <Operacao in_IDOperacao="619" vc_NomeOperacao="Alterar" si_Ordem="3" />
+    <Operacao in_IDOperacao="620" vc_NomeOperacao="Excluir" si_Ordem="4" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="102" vc_NomeFuncionalidade="Documento LTCAT">
+    <Operacao in_IDOperacao="735" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="736" vc_NomeOperacao="Gravar" si_Ordem="20" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="121" vc_NomeFuncionalidade="Entrega de EPI">
+    <Operacao in_IDOperacao="849" vc_NomeOperacao="Entrega de EPI" si_Ordem="1" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="70" vc_NomeFuncionalidade="Estatística de Vacinação">
+    <Operacao in_IDOperacao="592" vc_NomeOperacao="Estatística de Vacinação" si_Ordem="1" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="76" vc_NomeFuncionalidade="Estatísticas">
+    <Operacao in_IDOperacao="586" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="635" vc_NomeOperacao="Gerar Gráfico" si_Ordem="20" />
+    <Operacao in_IDOperacao="611" vc_NomeOperacao="Gerar Gráfico e Relatório" si_Ordem="30" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="56" vc_NomeFuncionalidade="Estoque Mínimo">
+    <Operacao in_IDOperacao="513" vc_NomeOperacao="Acessar" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="95" vc_NomeFuncionalidade="Home">
+    <Operacao in_IDOperacao="710" vc_NomeOperacao="Incluir Agendamentos" si_Ordem="1" />
+    <Operacao in_IDOperacao="709" vc_NomeOperacao="Visualizar Agendamentos" si_Ordem="1" />
+    <Operacao in_IDOperacao="793" vc_NomeOperacao="Finalizar sessão de usuários" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="1" vc_NomeFuncionalidade="Lista de Profissionais">
+    <Operacao in_IDOperacao="1" vc_NomeOperacao="Lista de Profissionais - Atendimento de Enfermagem" si_Ordem="9999" />
+    <Operacao in_IDOperacao="2" vc_NomeOperacao="Lista de Profissionais - Atendimento Médico" si_Ordem="9999" />
+    <Operacao in_IDOperacao="8" vc_NomeOperacao="Lista de Profissionais - Audiometria" si_Ordem="9999" />
+    <Operacao in_IDOperacao="3" vc_NomeOperacao="Lista de Profissionais - Avaliação PNE" si_Ordem="9999" />
+    <Operacao in_IDOperacao="6" vc_NomeOperacao="Lista de Profissionais - Empresa - LTCAT" si_Ordem="9999" />
+    <Operacao in_IDOperacao="4" vc_NomeOperacao="Lista de Profissionais - Empresa - PCMSO" si_Ordem="9999" />
+    <Operacao in_IDOperacao="5" vc_NomeOperacao="Lista de Profissionais - Empresa - PPRA" si_Ordem="9999" />
+    <Operacao in_IDOperacao="7" vc_NomeOperacao="Lista de Profissionais - Entrega Medicamentos - Prescrição" si_Ordem="9999" />
+    <Operacao in_IDOperacao="9" vc_NomeOperacao="Lista de Profissionais - Ficha Médica" si_Ordem="9999" />
+    <Operacao in_IDOperacao="10" vc_NomeOperacao="Lista de Profissionais - Receita Médica" si_Ordem="9999" />
+    <Operacao in_IDOperacao="11" vc_NomeOperacao="Lista de Profissionais - Requisição de Exames" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="107" vc_NomeFuncionalidade="Montagem do PCMSO/PPRA">
+    <Operacao in_IDOperacao="757" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="758" vc_NomeOperacao="Gravar" si_Ordem="20" />
+    <Operacao in_IDOperacao="759" vc_NomeOperacao="PCMSO" si_Ordem="30" />
+    <Operacao in_IDOperacao="760" vc_NomeOperacao="PPRA" si_Ordem="40" />
+    <Operacao in_IDOperacao="817" vc_NomeOperacao="Associação de Estrutura para GHE" si_Ordem="1041" />
+    <Operacao in_IDOperacao="788" vc_NomeOperacao="Associação de EPI" si_Ordem="9999" />
+    <Operacao in_IDOperacao="787" vc_NomeOperacao="Associação de Riscos" si_Ordem="9999" />
+    <Operacao in_IDOperacao="791" vc_NomeOperacao="Avaliação de Riscos" si_Ordem="9999" />
+    <Operacao in_IDOperacao="790" vc_NomeOperacao="Medidas de Controle" si_Ordem="9999" />
+    <Operacao in_IDOperacao="792" vc_NomeOperacao="Programação de Exames" si_Ordem="9999" />
+    <Operacao in_IDOperacao="789" vc_NomeOperacao="Reconhecimento de Riscos" si_Ordem="9999" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="35" vc_NomeFuncionalidade="Montagem do PPRA">
+    <Operacao in_IDOperacao="450" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="451" vc_NomeOperacao="Gravar" si_Ordem="2" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="55" vc_NomeFuncionalidade="Movimentação do Estoque">
+    <Operacao in_IDOperacao="512" vc_NomeOperacao="Acessar" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="98" vc_NomeFuncionalidade="Programação de Exames por Classificação">
+    <Operacao in_IDOperacao="723" vc_NomeOperacao="Acessar" si_Ordem="10" />
+    <Operacao in_IDOperacao="724" vc_NomeOperacao="Gravar" si_Ordem="20" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="21" vc_NomeFuncionalidade="Programação de Exames por idade">
+    <Operacao in_IDOperacao="400" vc_NomeOperacao="Acessar" si_Ordem="1" />
+    <Operacao in_IDOperacao="401" vc_NomeOperacao="Gravar" si_Ordem="2" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="68" vc_NomeFuncionalidade="Qualidade de Vida">
+    <Operacao in_IDOperacao="584" vc_NomeOperacao="Indicadores de Saúde" si_Ordem="1" />
+    <Operacao in_IDOperacao="585" vc_NomeOperacao="Relatório por Faixa de Pontuação" si_Ordem="2" />
+    <Operacao in_IDOperacao="587" vc_NomeOperacao="Filtragem" si_Ordem="4" />
+    <Operacao in_IDOperacao="588" vc_NomeOperacao="Comparativo Estatístico" si_Ordem="5" />
+    <Operacao in_IDOperacao="808" vc_NomeOperacao="Enviar link por e-mail para preenchimento de Avaliação" si_Ordem="6" />
+    <Operacao in_IDOperacao="815" vc_NomeOperacao="Acompanhamento de Preenchimento de Avaliações online" si_Ordem="7" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="75" vc_NomeFuncionalidade="Relatório do PPP">
+    <Operacao in_IDOperacao="610" vc_NomeOperacao="Imprimir dados médicos e mostrar resultados" si_Ordem="10" />
+    <Operacao in_IDOperacao="609" vc_NomeOperacao="Imprimir dados médicos mas não mostrar resultados" si_Ordem="10" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="122" vc_NomeFuncionalidade="Utilitários">
+    <Operacao in_IDOperacao="851" vc_NomeOperacao="Inclusão de Códigos ApData" si_Ordem="1" />
+    <Operacao in_IDOperacao="852" vc_NomeOperacao="Gera arquivo ApData" si_Ordem="2" />
+  </Funcionalidade>
+  <Funcionalidade in_IDFuncionalidade="96" vc_NomeFuncionalidade="Vacinação de Funcionários/Dependentes">
+    <Operacao in_IDOperacao="712" vc_NomeOperacao="Acessar" si_Ordem="1" />
+  </Funcionalidade>
+</Practice>
